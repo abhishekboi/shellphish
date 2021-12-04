@@ -1,5 +1,5 @@
 # 🔒 Generate ***** Shellphish ***** 🔒
-Follow the steps bellow to generate a crypted shellcode that can be used on a C++ executable.
+Follow the steps bellow to shellphish.
 
 ## Clone the repository
 ```
@@ -12,7 +12,7 @@ cd shellphish
 ```
 chmod +x shellphish.sh
 ```
-Do the final steps
+## Do the final steps
 ```
 ./shellphish.sh
 ```
